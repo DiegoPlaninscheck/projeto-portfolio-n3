@@ -125,10 +125,6 @@ Desenvolvimento em **Scrum** (sprints quinzenais), gerenciado no **Jira** (5 ép
 
 Redução de desperdício · rastreabilidade completa de lotes · planejamento de produção qualificado pela IA · dashboard com KPIs operacionais em tempo real.
 
-## 📄 Documentação
-
-O artigo científico completo do portfólio está em [`docs/`](docs/).
-
 ## 👤 Autor
 
 **Diego Planinscheck** — Engenharia de Software, Católica SC
