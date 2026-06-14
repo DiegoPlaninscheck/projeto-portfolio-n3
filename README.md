@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo.jpeg" alt="Fredda Pizzaria" width="160" />
+  <img src="fredda_pizzaria.png" alt="Fredda Pizzaria" width="160" />
 
   # 🍕 Fredda Pizzaria
 
